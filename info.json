@@ -1,0 +1,13 @@
+{
+  "name": "sonaxaton-research-queue-with-interface",
+  "version": "0.4.22",
+  "title": "Improved Research Queue with interface",
+  "author": "sonaxaton",
+  "homepage": "https://mods.factorio.com/mod/sonaxaton-research-queue",
+  "description": "A better GUI for managing the research queue.\n**This is a fork of the mod 'Improved Research Queue'. Use this mod only when another mod suggests it! Otherwise use the original!**",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "flib >= 0.6.0",
+    "! sonaxaton-research-queue"
+  ]
+}
